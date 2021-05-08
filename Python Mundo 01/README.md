@@ -1,4 +1,7 @@
-# Certificados
+# Python Mundo 01
 
 
-[Curso em Vídeo - Guanabara]() - [Python Mundo 01]() - 40 horas
+## Cerficado
+
+
+## Escopo
